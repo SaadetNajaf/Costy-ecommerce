@@ -37,7 +37,7 @@ Utilizes Google Fonts and Boxicons for an aesthetic and user-friendly interface.
 
 ---
 
-🎯 Getting Started
+##🎯 Getting Started 
 1.Clone the repository:
 
 git clone https://github.com/SaadetNajaf/Costy-ecommerce.git
