@@ -40,7 +40,7 @@ Utilizes Google Fonts and Boxicons for an aesthetic and user-friendly interface.
 🎯 Getting Started
 1.Clone the repository:
 
-git clone [https://github.com/yourusername/costy.git](https://github.com/SaadetNajaf/Costy-ecommerce)
+git clone https://github.com/SaadetNajaf/Costy-ecommerce.git
 
 2.Open the project:
 
