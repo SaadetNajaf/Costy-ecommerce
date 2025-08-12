@@ -37,21 +37,18 @@ Utilizes Google Fonts and Boxicons for an aesthetic and user-friendly interface.
 
 ---
 
-##🎯 Getting Started 
-1.Clone the repository:
+## 🎯 Getting Started     
 
+1.Clone the repository:  
 git clone https://github.com/SaadetNajaf/Costy-ecommerce.git
 
-2.Open the project:
-
+2.Open the project:  
 Use a live server extension (e.g., VSCode Live Server) to open index.html for local testing.
 
-3.Update product data:
-
+3.Update product data:   
 Modify the db.json file to add or edit products as needed.
 
-4.Customize styling and layout:
-
+4.Customize styling and layout:    
 Adjust SCSS modules for colors, fonts, and layout to fit your brand identity.
 
 ---
